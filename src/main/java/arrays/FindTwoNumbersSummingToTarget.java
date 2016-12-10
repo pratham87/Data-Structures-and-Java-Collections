@@ -59,7 +59,7 @@ public class FindTwoNumbersSummingToTarget {
 		return new int[2];
 	}
 
-	// Method 3: Using Additional collection
+	// Method 3: Using Additional collection (Storing counterparts in Arraylist)
 	public static int[] findElements(int[] array, int target) {
 		List<Integer> remainderList = new ArrayList<>();
 		int i = 0;
