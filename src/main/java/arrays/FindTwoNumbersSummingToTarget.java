@@ -81,18 +81,18 @@ public class FindTwoNumbersSummingToTarget {
 	
 	//Driver Method
 	public static void main(String[] args) {
-		int[] numbers = { 2, 3, 4 };
+		int[] numbers = { 2, 2, 4 };
 		
 		//Method 1
-		int[] result = twoSum(numbers, 6);
+		int[] result = twoSum(numbers, 4);
 		System.out.println("Index: " + result[0] + "," + result[1]);
 
 		//Method 2
-		int[] resultTest = twoSumTest(numbers, 6);
+		int[] resultTest = twoSumTest(numbers, 4);
 		System.out.println("Index: " + resultTest[0] + "," + resultTest[1]);
 
 		//Method 3
-		int[] resultT = findElements(numbers, 6);
+		int[] resultT = findElements(numbers, 4);
 		System.out.println("Index: " + resultT[0] + "," + resultT[1]);
 
 	}
