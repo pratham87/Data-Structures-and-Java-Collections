@@ -14,11 +14,11 @@ public class StackUsingLinkedList {
 	}
 
 	public void pop() {
-
-	}
-
-	public void getSize() {
-
+		if (head == null) {
+			System.out.println("Stack is empty");
+		} else {
+			head = head.next;
+		}
 	}
 
 	public void displayStack() {
@@ -30,23 +30,19 @@ public class StackUsingLinkedList {
 	}
 
 	public static void main(String[] args) {
-		StackUsingLinkedList list = new StackUsingLinkedList();
-		list.head = new Node(1);
-		list.head.next = new Node(2);
-		list.head.next.next = new Node(3);
-		list.head.next.next.next = new Node(4);
-		list.head.next.next.next.next = new Node(5);
+		StackUsingLinkedList stack = new StackUsingLinkedList();
 
-		System.out.println("Original List: ");
-		list.displayStack();
+		System.out.println("Stack Push: ");
+		stack.push(new Node(7));
+		stack.displayStack();
 
-		System.out.println("\n\nModified List: ");
-		list.push(new Node(7));
-		list.displayStack();
-		
-		System.out.println("\n\nModified List: ");
-		list.push(new Node(8));
-		list.displayStack();
+		System.out.println("\n\nStack Push: ");
+		stack.push(new Node(8));
+		stack.displayStack();
+
+		System.out.println("\n\nStack Pop: ");
+		stack.pop();
+		stack.displayStack();
 
 	}
 
