@@ -3,13 +3,16 @@ package linkedList;
 public class StackUsingLinkedList {
 
 	Node head;
+	int size = 0;
 
 	public void push(Node node) {
 		if (head == null) {
 			head = node;
+			size++;
 		} else {
 			node.next = head;
 			head = node;
+			size++;
 		}
 	}
 
@@ -18,6 +21,7 @@ public class StackUsingLinkedList {
 			System.out.println("Stack is empty");
 		} else {
 			head = head.next;
+			size--;
 		}
 	}
 
@@ -43,6 +47,8 @@ public class StackUsingLinkedList {
 		System.out.println("\n\nStack Pop: ");
 		stack.pop();
 		stack.displayStack();
+
+		System.out.println("\n\nStack size: " + stack.size);
 
 	}
 
