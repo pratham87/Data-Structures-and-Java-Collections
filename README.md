@@ -3,6 +3,7 @@
  
  * Arrays:
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
+    * [Two Dimensional Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
     * [Comparing arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Compare.java)
     * [Count negative numbers in Row wise and Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/CountNegativesInRowwiseColumnwiseSortedMatrix.java)
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
@@ -12,18 +13,16 @@
       * [Formula](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumber.java)
       * [XOR](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumberUsingXOR.java)
     * [Find Non Repeating Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindNonRepeatingNumber.java)
-    * [Find Two Numbers Summing To Target]
+    * Find Two Numbers Summing To Target:
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L20)
       * [Binary Search](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39)
       * [Using Additional collection (Storing counterparts in Arraylist)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62)
     * [Intersection (common numbers in both arrays)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
- 
+    * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
+    * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
+    * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
+
  * Binary tree:
     * []()
     * []()
