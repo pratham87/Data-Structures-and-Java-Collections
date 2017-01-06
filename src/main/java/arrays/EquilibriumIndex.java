@@ -2,7 +2,7 @@ package arrays;
 
 /***
  * Equilibrium index of an array. Find index in an array such that sum of all
- * elements on its left is equal to su of all elements to its right. Time
+ * elements on its left is equal to sum of all elements to its right. Time
  * complexity is O(n)
  ***/
 public class EquilibriumIndex {
