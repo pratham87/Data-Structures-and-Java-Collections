@@ -24,27 +24,24 @@
     * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
 
  * Binary tree:
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Node.java)
+    * [Simple Binary Tree]
+      * [Add node using Iterative method](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L22)
+      * [Add node using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L55)
+    * [Delete Tree](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/DeleteTree.java)
+    * [Least Common Ancestor](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/LCA.java)
+    * [Sum of all Node's data](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SumOfTree.java)
  
  * Linked list:
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
+    * [Add node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/AddNode.java)
+    * [Detect Loop in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
+    * [Reverse Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
+    * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/StackUsingLinkedList.java)
  
  * Queue:
-    * []()
-    * []()
-    * []()
-    * []()
+    * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
+    * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
  
  * Stack:
-    * []()
-    * []()
-    * []()
-  
+    * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
