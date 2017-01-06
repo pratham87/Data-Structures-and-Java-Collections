@@ -25,9 +25,9 @@
 
  * Binary tree:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Node.java)
-    * [Simple Binary Tree]
-      * [Add node using Iterative method](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L22)
-      * [Add node using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L55)
+    * Add node using:
+      * [Iterative method](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L22)
+      * [Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L55)
     * [Delete Tree](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/DeleteTree.java)
     * [Least Common Ancestor](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/LCA.java)
     * [Sum of all Node's data](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SumOfTree.java)
