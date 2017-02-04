@@ -9,6 +9,7 @@
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
     * [Find Duplicate Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindDuplicateNumber.java)
     * [Find Largest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestNumber.java)
+    * [Find Largest and Smallest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestSmallestNumber.java)
     * Find Missing Number using:
       * [Formula](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumber.java)
       * [XOR](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumberUsingXOR.java)
@@ -18,6 +19,7 @@
       * [Binary Search](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39)
       * [Using Additional collection (Storing counterparts in Arraylist)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62)
     * [Intersection (common numbers in both arrays)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
+    * [Find Max and Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/MaxAndMin.java)
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
@@ -31,6 +33,7 @@
     * [Delete Tree](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/DeleteTree.java)
     * [Least Common Ancestor](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/LCA.java)
     * [Sum of all Node's data](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SumOfTree.java)
+    * Traversals: [Source](http://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
  
  * Linked list:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
