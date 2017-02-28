@@ -33,7 +33,7 @@
     * [Delete Tree](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/DeleteTree.java)
     * [Least Common Ancestor](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/LCA.java)
     * [Sum of all Node's data](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SumOfTree.java)
-    * Traversals: [Source](http://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+    * [Traversals](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Traversals.java): [Source](http://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
  
  * Linked list:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
