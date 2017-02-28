@@ -11,12 +11,12 @@ public class AddNode {
 		}
 		Node prev = head;
 
-		while (prev.next != null && prev.data < node.data) {
+		while (prev.next != null && prev.next.data < node.data) {
 			prev = prev.next;
 		}
 
-		node.next = prev.next;
-		prev.next = node;
+		node.next = prev.next; // Make next of new Node as next of prev_node
+		prev.next = node; // Make next of prev_node as new_node
 
 	}
 
@@ -31,7 +31,8 @@ public class AddNode {
 	public static void main(String[] args) {
 		AddNode list = new AddNode();
 		list.head = new Node(1);
-		list.head.next = new Node(4);
+		list.head.next = new Node(3);
+		list.head.next.next = new Node(4);
 
 		list.add(new Node(2));
 
