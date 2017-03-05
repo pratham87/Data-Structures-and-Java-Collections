@@ -1,4 +1,4 @@
-package linkedList;
+package stackProbs;
 
 public class StackUsingLinkedList {
 
