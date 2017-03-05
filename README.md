@@ -47,5 +47,5 @@
     * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
  
  * Stack:
-    * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
+    * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
