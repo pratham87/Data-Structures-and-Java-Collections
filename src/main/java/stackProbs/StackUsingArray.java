@@ -13,7 +13,7 @@ public class StackUsingArray {
 		return (top < 0);
 	}
 
-	boolean push(int x) {
+	public boolean push(int x) {
 		if (top >= a.length) {
 			System.out.println("Stack Overflow");
 			return false;
