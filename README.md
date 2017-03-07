@@ -50,3 +50,4 @@
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
     * [Stack Using Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingArray.java)
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
+    * [Reverse a String using Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
