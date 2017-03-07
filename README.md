@@ -41,11 +41,12 @@
     * [Delete Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DeleteNode.java)
     * [Detect Loop in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
     * [Reverse Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
-    * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/StackUsingLinkedList.java)
  
  * Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
     * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
  
  * Stack:
+    * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
+    * Stack Using Array
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
