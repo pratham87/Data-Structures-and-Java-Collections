@@ -48,5 +48,5 @@
  
  * Stack:
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
-    * Stack Using Array
+    * [Stack Using Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingArray.java)
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
