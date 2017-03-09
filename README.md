@@ -41,6 +41,7 @@
     * [Delete Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DeleteNode.java)
     * [Detect Loop in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
     * [Reverse Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
+    * Remove Duplicates from an Unsorted Linked list
  
  * Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
