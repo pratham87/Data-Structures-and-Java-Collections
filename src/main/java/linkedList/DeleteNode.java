@@ -12,7 +12,7 @@ public class DeleteNode {
 
 		Node temp = head;
 
-		// Position 0 is head
+		// Position 1 is head
 		if (position == 1) {
 			head = temp.next;
 			return;
