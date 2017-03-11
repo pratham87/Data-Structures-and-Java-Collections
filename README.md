@@ -43,7 +43,7 @@
     * [Reverse Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
     * Remove Duplicates from an Unsorted Linked list using:
       * [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)
-      * Two pointer technique
+      * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicatesUsingTwoPointer.java)
  
  * Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
