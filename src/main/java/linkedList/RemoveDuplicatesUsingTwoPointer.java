@@ -5,26 +5,33 @@ public class RemoveDuplicatesUsingTwoPointer {
 	Node head;
 
 	public void removeDuplicate() {
-		Node prev = head;
-		Node current = prev;
+		if (head == null) {
+			return;
+		}
 
-		while (prev != null) {
-			if (current.next != null) {
-				if (current.next.data == prev.data) {
-					current.next = current.next.next;
+		Node prev = head;
+		Node current = prev.next;
+
+		while (current != null) {
+
+			Node runner = head;
+
+			// For consecutive 3 duplicate Nodes (1 -> 2 -> 2 -> 2)
+			while (runner != current) {
+
+				if (runner.data == current.data) {
+					System.out.println("\nPrev is:" + prev.data);
+					prev.next = current.next;
 					current = current.next;
+					break;
 				}
+				runner = runner.next;
 			}
 
-			if (current != null) {
+			if (runner == current) {
+				prev = current;
 				current = current.next;
 			}
-
-			if (current == null) {
-				prev = prev.next;
-				current = prev;
-			}
-
 		}
 	}
 
@@ -40,9 +47,10 @@ public class RemoveDuplicatesUsingTwoPointer {
 		RemoveDuplicatesUsingTwoPointer list = new RemoveDuplicatesUsingTwoPointer();
 		list.head = new Node(1);
 		list.head.next = new Node(2);
-		list.head.next.next = new Node(3);
+		list.head.next.next = new Node(2);
 		list.head.next.next.next = new Node(2);
-		list.head.next.next.next.next = new Node(3);
+		list.head.next.next.next.next = new Node(2);
+		list.head.next.next.next.next.next = new Node(1);
 
 		System.out.println("Before removing duplicates: ");
 
