@@ -14,13 +14,12 @@ public class RemoveDuplicatesUsingTwoPointer {
 
 		while (current != null) {
 
-			Node runner = head;
+			Node runner = head; // Put runner back to starting point
 
 			// For consecutive 3 duplicate Nodes (1 -> 2 -> 2 -> 2)
 			while (runner != current) {
 
 				if (runner.data == current.data) {
-					System.out.println("\nPrev is:" + prev.data);
 					prev.next = current.next;
 					current = current.next;
 					break;
