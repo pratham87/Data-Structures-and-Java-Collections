@@ -1,5 +1,5 @@
 * Basic Data Structures and problems - Java Implementation. 
-* ##List of solved problems:
+* ## List of solved problems:
  
  * Arrays:
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
