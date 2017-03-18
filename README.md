@@ -1,5 +1,5 @@
 * Basic Data Structures and problems - Java Implementation. 
-* ##List of solved problems:
+* ## List of solved problems:
  
  * Arrays:
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
@@ -44,6 +44,9 @@
     * Remove Duplicates from an Unsorted Linked list using:
       * [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicatesUsingTwoPointer.java)
+    * Find n’th node from the end of a Linked List:
+      * Using length of linked list
+      * Two pointer technique
  
  * Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
@@ -52,7 +55,7 @@
  * Stack:
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
     * [Stack Using Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingArray.java)
-    * Two stacks in One array
+    * [Two stacks in One array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/TwoStacksInOneArray.java)
     * Three stacks in One array
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
     * [Reverse a String using Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
