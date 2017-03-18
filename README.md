@@ -23,8 +23,10 @@
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
-    * Rotate array:
-      * Using Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L6), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L29) 
+    * Rotate array using:
+      * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L6), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L29)
+      * Bubble rotate
+      * Reversal algorithm
     * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
 
  * Binary tree:
