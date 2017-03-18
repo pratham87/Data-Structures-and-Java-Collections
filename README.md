@@ -45,8 +45,8 @@
       * [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicatesUsingTwoPointer.java)
     * Find n’th node from the end of a Linked List:
-      * Using length of linked list
-      * Two pointer technique
+      * [Using length of linked list](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingLength.java)
+      * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingTwoPointer.java)
  
  * Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
