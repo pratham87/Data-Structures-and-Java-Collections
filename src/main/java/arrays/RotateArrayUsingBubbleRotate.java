@@ -1,5 +1,12 @@
 package arrays;
 
+/*
+
+ Time Complexity: O(n*k)
+ Space Complexity: O(1)
+ 
+ * */
+
 public class RotateArrayUsingBubbleRotate {
 
 	public static void rotate(int[] array, int k) {
