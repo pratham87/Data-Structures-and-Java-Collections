@@ -24,7 +24,7 @@
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
     * Rotate array using:
-      * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L6), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L29)
+      * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L13), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L36)
       * [Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)
       * [Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)
     * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
