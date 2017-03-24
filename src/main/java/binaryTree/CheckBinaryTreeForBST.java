@@ -1,6 +1,9 @@
 package binaryTree;
 
 /*
+ Time Complexity: O(n)
+ Space Complexity: O(1)
+
  Algorithm:
  
  1. In BST, left node can have (root - 1) as max and right node can have (root + 1) as min in order to be a BST. 
