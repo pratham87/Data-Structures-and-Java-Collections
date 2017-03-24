@@ -1,6 +1,9 @@
 package binaryTree;
 
 /*
+ Time Complexity: O(n)
+ Space Complexity: O(1)
+
  Algorithm:
  
  1. In BST, left node can have (root - 1) as max and right node can have (root + 1) as min in order to be a BST. 
@@ -30,6 +33,8 @@ public class CheckBinaryTreeForBST {
 		tree.root = new Node(4);
 		tree.root.left = new Node(3);
 		tree.root.right = new Node(5);
+		tree.root.right.right = new Node(6);
+		tree.root.right.right.right = new Node(7);
 
 		System.out.println(tree.isBST(tree.root, Integer.MIN_VALUE, Integer.MAX_VALUE));
 
