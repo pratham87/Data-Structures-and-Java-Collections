@@ -38,6 +38,7 @@
     * [Least Common Ancestor](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/LCA.java)
     * [Sum of all Node's data](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SumOfTree.java)
     * [Traversals](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Traversals.java): [Source](http://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+    * [Check if a binary tree is BST or not](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/CheckBinaryTreeForBST.java)
  
  * Linked list:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
