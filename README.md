@@ -1,7 +1,7 @@
 * Basic Data Structures and problems - Java Implementation. 
 * ## List of solved problems:
  
- * Arrays:
+ * ### Arrays:
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
     * [Two Dimensional Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
     * [Comparing arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Compare.java)
@@ -29,7 +29,10 @@
       * [Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)
     * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
 
- * Binary tree:
+* ### HashMap and Hashtable:
+	* [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/hashmap.md) 
+
+* ### Binary tree:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Node.java)
     * Add node using:
       * [Iterative method](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/SimpleBinaryTree.java#L22)
@@ -40,7 +43,7 @@
     * [Traversals](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Traversals.java): [Source](http://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
     * [Check if a binary tree is BST or not](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/CheckBinaryTreeForBST.java)
  
- * Linked list:
+ * ### Linked list:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
     * [Add Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/AddNode.java)
     * [Delete Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DeleteNode.java)
@@ -53,11 +56,11 @@
       * [Using length of linked list](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingLength.java)
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingTwoPointer.java)
  
- * Queue:
+ * ### Queue:
     * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
     * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
  
- * Stack:
+ * ### Stack:
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
     * [Stack Using Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingArray.java)
     * [Two stacks in One array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/TwoStacksInOneArray.java)
