@@ -45,7 +45,7 @@
     ```
     
     * First, it checks if the key given is null or not. If the given key is null, it will be stored in the zero position, as the hashcode of null will be zero.
-    * **key .hashCode()** : Get hashcode for key
+    * **key.hashCode()** : Get hashcode for key
     * **hash(key.hashCode())**: Get the value within the limits of an array
     * **indexFor()**: Used to get the exact location to store the Entry object
 
