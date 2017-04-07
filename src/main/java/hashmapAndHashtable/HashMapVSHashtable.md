@@ -1,4 +1,4 @@
-* ## HashMap vs Hashtable
+## HashMap vs Hashtable
 * Hashtable is **synchronized**, whereas HashMap is not. 
 * Thus HashMap performs better than Hashtable.
 * Hashtable does not allow **null keys or values**.  HashMap allows one null key and any number of null values.
