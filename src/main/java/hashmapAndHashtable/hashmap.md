@@ -1,4 +1,4 @@
-* ## Working of Hashmap
+## Working of Hashmap
 * Hashmap class:
   ```
   /* The table, resized as necessary. Length MUST Always be a power of two */
