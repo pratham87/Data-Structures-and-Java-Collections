@@ -50,7 +50,9 @@
     * [Add Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/AddNode.java)
     * [Delete Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DeleteNode.java)
     * [Detect Loop in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
-    * [Reverse Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
+    * Reverse Linked List:
+        * [Reverse Entire Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
+	    * [Reverse List From Midpoint](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseListFromMidpoint.java)
     * Remove Duplicates from an Unsorted Linked list using:
       * [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicatesUsingTwoPointer.java)
