@@ -1,6 +1,6 @@
 ## Working of Hashmap
 * Hashmap class:
-  ```
+  ```java
   /* The table, resized as necessary. Length MUST Always be a power of two */
        transient Entry[] table;
   ```
@@ -8,7 +8,7 @@
 * HashMap has an inner class called an Entry Class which holds the key and value objects
 * Below is the Entry class:
 
-  ```
+  ```java
   static class Entry<K,V> implements Map.Entry<K,V> 
    {
        final K key;
@@ -23,7 +23,7 @@
  * ### put() Method:
  	* put() method is used to insert value in Hashmap using key's hashcode.
 
-    ```
+    ```java
     public V put(K key, V value){
       if (key == null)
          return putForNullKey(value);
@@ -62,7 +62,7 @@
  	* If key.equals(k) is true, then it will replace the value object inside the Entry class and not the key
 
  * ### get() Method:
-  ```
+  ```java
   public V get(Object key) 
   {
       if (key == null)
