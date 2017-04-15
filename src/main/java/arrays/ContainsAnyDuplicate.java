@@ -13,7 +13,7 @@ import java.util.Set;
  */
 public class ContainsAnyDuplicate {
 
-	public boolean containsDuplicate(int[] nums) {
+	public static boolean containsDuplicate(int[] nums) {
 		Set<Integer> set = new HashSet<Integer>();
 		for (int num : nums) {
 			if (!set.add(num)) {
@@ -25,6 +25,8 @@ public class ContainsAnyDuplicate {
 	}
 
 	public static void main(String[] args) {
+		int[] nums = { 1, 2, 3, 4, 2 };
+		System.out.println(containsDuplicate(nums));
 
 	}
 
