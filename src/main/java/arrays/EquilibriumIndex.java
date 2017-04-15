@@ -1,10 +1,15 @@
 package arrays;
 
-/***
- * Equilibrium index of an array. Find index in an array such that sum of all
- * elements on its left is equal to sum of all elements to its right. Time
- * complexity is O(n)
- ***/
+/*
+  Find index in an array such that sum of all elements on its left is equal to sum of all elements to its right. 
+  Time complexity is O(n).
+   
+   Algorithm:
+   
+   1. Calculate sum of all elements.
+   2. (sum - array[i]) / 2 will give the rightSum.
+   3. Compare rightSum to leftsum and then return the equilibrium index.
+ */
 public class EquilibriumIndex {
 
 	public static int equilibrium(int[] array) {

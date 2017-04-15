@@ -1,7 +1,11 @@
 package linkedList;
 
 /*
- Algorithm:
+Reverse in groups. Example: k = 3
+Input:  1 --> 2 --> 3 --> 4 --> 5 --> 6 --> 7 --> 8 --> NULL
+Output: 3 --> 2 --> 1 --> 6 --> 5 --> 4 --> 8 --> 7 --> NULL 
+
+Algorithm:
  
  1. Reverse using recursion.
  2. Reverse list until k.

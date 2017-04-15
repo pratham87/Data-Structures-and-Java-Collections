@@ -2,6 +2,16 @@ package linkedList;
 
 import java.util.HashMap;
 
+/*
+ Time Complexity: O(n)
+ Space Complexity: O(n) 
+ 
+ Algorithm:
+ 1. Using Two pointers, insert node's value in HashMap.
+ 2. If HashMap contains the node then delete the node. 
+ 
+*/
+
 public class RemoveDuplicateNodesUsingHashMap {
 
 	Node head;
