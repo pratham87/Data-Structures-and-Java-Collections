@@ -5,7 +5,9 @@
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
     * [Two Dimensional Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
     * [Comparing arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Compare.java)
-    * [Contains any duplicate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicate.java)
+    * Contains any duplicate using:
+      * [Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingMap.java)
+      * [Set](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingSet.java)
     * [Count negative numbers in Row wise and Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/CountNegativesInRowwiseColumnwiseSortedMatrix.java)
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
     * [Find Duplicate Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindDuplicateNumber.java)
