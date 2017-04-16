@@ -7,7 +7,6 @@
     * Contains any duplicate using:
       * [Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingMap.java)
       * [Set](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingSet.java)
-    * [Count negative numbers in Row wise and Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/CountNegativesInRowwiseColumnwiseSortedMatrix.java)
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
     * [Find Duplicate Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindDuplicateNumber.java)
     * [Find Largest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestNumber.java)
@@ -32,6 +31,7 @@
     * Matrix:
       * [2D Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
       * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
+      * [Count negative numbers in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/CountNegativesInRowwiseColumnwiseSortedMatrix.java)
       * [Print Spiral Pattern](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/PrintSpiral.java)
       * [Set 0's in Row and Column](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ZeroRowColumn.java)
 
