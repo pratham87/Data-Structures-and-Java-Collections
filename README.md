@@ -3,7 +3,6 @@
  
  * ### Arrays:
     * [Basic Implementation of Arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Basic.java)
-    * [Two Dimensional Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
     * [Comparing arrays](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Compare.java)
     * Contains any duplicate using:
       * [Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingMap.java)
@@ -30,7 +29,10 @@
       * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L13), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L36)
       * [Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)
       * [Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)
-    * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
+    * Matrix:
+      * [2D Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
+      * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
+      * [Print Spiral Pattern](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/PrintSpiral.java)
 
 * ### HashMap and Hashtable:
 	* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/hashmap.md) 
