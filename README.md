@@ -33,6 +33,7 @@
       * [2D Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
       * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
       * [Print Spiral Pattern](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/PrintSpiral.java)
+      * [Set 0's in Row and Column](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ZeroRowColumn.java)
 
 * ### HashMap and Hashtable:
 	* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/hashmap.md) 
