@@ -23,7 +23,9 @@
     * [Find Max and Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/MaxAndMin.java)
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
-    * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
+    * Reverse:
+      * [Reverse using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)
+      * [Reverse words in a char array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseWords.java)
     * Rotate array using:
       * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L13), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L36)
       * [Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)
