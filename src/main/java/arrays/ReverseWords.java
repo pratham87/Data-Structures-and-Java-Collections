@@ -1,4 +1,18 @@
 package arrays;
+/*
+ 	Reverse the words (chars separated by space).
+	For example:
+	[ 'h', 'i', ' ', 't', 'h', 'e', 'r', 'e', ' ', 'y', 'o', 'u' ]
+	
+	would turn into:
+	[ 'y', 'o', 'u ', ' ', 't','h', 'e', 'r', 'e', ' ', 'h', 'i' ]; 
+	
+	Algorithm:
+	
+	1. Reverse the entire array.
+	2. Using recursion, reverse the chars until you hit the space (reversing every single word)
+	
+ */
 
 public class ReverseWords {
 
