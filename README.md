@@ -9,8 +9,11 @@
       * [Set](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingSet.java)
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
     * [Find Duplicate Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindDuplicateNumber.java)
-    * [Find Largest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestNumber.java)
-    * [Find Largest and Smallest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestSmallestNumber.java)
+    * Largest and Smallest numbers:
+      * [Find Largest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestNumber.java)
+      * [Find Largest and Smallest Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindLargestSmallestNumber.java)
+      * [Find Max and Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/MaxAndMin.java)
+      * k largest(or smallest) elements in an array: [Algorithms](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
     * Find Missing Number using:
       * [Formula](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumber.java)
       * [XOR](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumberUsingXOR.java)
@@ -20,7 +23,6 @@
       * [Binary Search](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39)
       * [Using Additional collection (Storing counterparts in Arraylist)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62)
     * [Intersection (common numbers in both arrays)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
-    * [Find Max and Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/MaxAndMin.java)
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * Reverse:
