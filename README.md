@@ -22,7 +22,10 @@
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L20)
       * [Binary Search](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39)
       * [Using Additional collection (Storing counterparts in Arraylist)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62)
-    * [Intersection (common numbers in both arrays)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
+    * Find Intersection (common elements in both arrays):
+      * [Two pointer - Unsorted chars](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
+      * [Two pointer - Sorted numbers](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionInPlace.java)
+      * [Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionUsingMap.java)
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * Reverse:
