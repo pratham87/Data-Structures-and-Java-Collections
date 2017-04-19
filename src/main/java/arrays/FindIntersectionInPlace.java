@@ -7,11 +7,16 @@ import java.util.List;
  Time Complexity: O(n*m)
  Space Complexity: O(1)
  
-  Algorithm: Brute force
+  Algorithm 1: Brute force
   
   1. Take two pointers to both arrays.
   2. Since arrays are sorted, move both the pointers simultaneously.
   3. Copy the elements that are equal. 
+  
+  Algorithm 2: Using Binary Search
+  
+  1. Do a binary search on arr2 for every element in arr1.
+  2. Add duplicate elements to the list and return. 
  */
 
 public class FindIntersectionInPlace {
