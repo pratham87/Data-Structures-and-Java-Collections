@@ -76,7 +76,9 @@
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingTwoPointer.java)
  
  * ### Queue:
-    * [Priority Queue Implementation](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
+    * [Priority Queue Chars](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueTest.java)
+    * [Priority Queue Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueMin.java)
+    * [Priority Queue Max - reversing the sorting order](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueMax.java)
     * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
  
  * ### Stack:
