@@ -68,6 +68,7 @@
         * [Reverse Entire Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
 	    * [Reverse List From Midpoint](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseListFromMidpoint.java)
 	    * [Reverse List In Groups](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseListInGroups.java)
+	    * [Reverse List Using Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseListUsingRecursion.java)
     * Remove Duplicates from an Unsorted Linked list using:
       * [HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)
       * [Two pointer technique](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/RemoveDuplicatesUsingTwoPointer.java)
