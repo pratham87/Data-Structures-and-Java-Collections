@@ -16,8 +16,11 @@ public class PriorityQueueMax {
 			}
 		});
 		
-		// Using lambda expression
+		// Method 1: Using lambda expression
 		// PriorityQueue<Integer> pq = new PriorityQueue<>((x,y) -> y-x);
+		
+		//Method 2 
+		//PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
 		
 		queue.add(5);
 		queue.add(9);
