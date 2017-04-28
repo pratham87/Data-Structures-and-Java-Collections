@@ -42,6 +42,7 @@
       * [Print Spiral Pattern](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/PrintSpiral.java)
       * [Set 0's in Row and Column](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ZeroRowColumn.java)
       * [Rotate Matrix Anticlockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateMatrix.java)
+      * [Find Islands Using DFS](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIslandsUsingDFS.java)
 
 * ### HashMap and Hashtable:
 	* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/hashmap.md) 
