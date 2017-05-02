@@ -99,5 +99,5 @@
 	* **Map**: HashMap, Hashtable, LinkedHashMap, TreeMap
 	* **Queue**: PriorityQueue
 	* **Stack** 
-	* Collections Class
+	* Arrays and Collections Class
 	* Concurrency package for all collections
