@@ -14,11 +14,11 @@ import java.util.Arrays;
 	[0, 0, 1]    [1, 0, 1]     [0, 1, 1]    [1, 1, 1] 
  */
 
-public class nBitString {
+public class NBitString {
 
 	int[] arr;
 
-	public nBitString(int n) {
+	public NBitString(int n) {
 		arr = new int[n];
 	}
 
@@ -36,7 +36,7 @@ public class nBitString {
 
 	public static void main(String[] args) {
 		int n = 3;
-		nBitString nb = new nBitString(n);
+		NBitString nb = new NBitString(n);
 		nb.nBits(n);
 	}
 
