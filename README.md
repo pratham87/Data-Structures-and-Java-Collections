@@ -46,11 +46,11 @@
 
 * ### HashMap and Hashtable:
     * [IterateHashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/IterateHashMap.java)
-    * [Map Sort (Sort by Value)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/MapSort/SortByValue.java) 	
+    * [Map Sort (Sort by Value)](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/MapSort/SortEntryObjects.java) 	
 	* Notes:
-		* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/hashmap.md) 
-		* [HashMap vs Hashtable](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/HashMapVSHashtable.md)
-		* [ConcurrentHashMap vs SynchronizedHashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/ConcurrentHashMapVSSynchronizedHashMap.md)
+		* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/hashmap.md) 
+		* [HashMap vs Hashtable](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/HashMapVSHashtable.md)
+		* [ConcurrentHashMap vs SynchronizedHashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/ConcurrentHashMapVSSynchronizedHashMap.md)
 
 * ### Binary tree:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Node.java)
