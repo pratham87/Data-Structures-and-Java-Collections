@@ -93,7 +93,7 @@
     * Three stacks in One array
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
     * [Reverse a String using Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
-
+	* [Valid Pop Sequence](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/PopSequence.java)
 * ### Collections (most used):
 	* **List**: ArrayList, LinkedList
 	* **Set**: HashSet, TreeSet, LinkedHashSet
