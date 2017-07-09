@@ -51,6 +51,7 @@
 		* [Working of HashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/hashmap.md) 
 		* [HashMap vs Hashtable](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/HashMapVSHashtable.md)
 		* [ConcurrentHashMap vs SynchronizedHashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/notes/ConcurrentHashMapVSSynchronizedHashMap.md)
+		* [BasicOperations](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/hashmapAndHashtable/notes/BasicOperations.md)
 
 * ### Binary tree:
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/binaryTree/Node.java)
