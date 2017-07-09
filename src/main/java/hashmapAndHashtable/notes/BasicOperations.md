@@ -1,7 +1,7 @@
 ## Basic Operations
 * ### getorDefault:
   ```java
-  map.put(i, map.getOrDefault(i, 0) + 1);
+  map.put(num, map.getOrDefault(num, 0) + 1);
   ```
   #### Alternative way:
   ```java
