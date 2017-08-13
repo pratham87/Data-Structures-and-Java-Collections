@@ -91,7 +91,7 @@
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
     * [Stack Using Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingArray.java)
     * [Two stacks in One array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/TwoStacksInOneArray.java)
-    * Three stacks in One array
+    * [Three stacks in One array](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/stackProbs/ThreeStacksInOneArray.java)
     * [Valid Parentheses](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/ValidParentheses.java)
     * [Reverse a String using Stack](https://github.com/pratham87/BasicJavaPrograms/blob/master/src/main/java/strings/ReverseStringUsingStack.java)
 	* [Valid Pop Sequence](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/PopSequence.java)
