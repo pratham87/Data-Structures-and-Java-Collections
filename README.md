@@ -7,23 +7,16 @@
     * Contains any duplicate using: **[[Map](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingMap.java)] [[Set](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/ContainsAnyDuplicateUsingSet.java)]**
     * [Equilibrium Index](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/EquilibriumIndex.java)
     * [Find Duplicate Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindDuplicateNumber.java)
-    * Find Min and Max:
-      * [Brute force](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/MaxAndMin.java)
-      * k largest(or smallest) elements in an array: [Algorithms](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
+    * [Find Min and Max](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/MaxAndMin.java)
+    * k largest(or smallest) elements in an array: [Algorithms](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
     * Find Missing Number using: **[[Formula](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumber.java)] [[XOR](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindMissingNumberUsingXOR.java)]**
     * [Find Non Repeating Number](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindNonRepeatingNumber.java)
-    * Find Two Numbers Summing To Target: **[[Brute Force]((https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L20))] [[Binary Search]((https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39))] [[Collection]((https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62))]**
-    * Find Intersection (common elements in both arrays):
-      * [Two pointer - Unsorted chars](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)
-      * [Two pointer - Sorted numbers](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionInPlace.java)
-      * [Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionUsingMap.java)
+    * Find Two Numbers Summing To Target: **[[Brute Force](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L20)] [[Binary Search](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L39)] [[Collection](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindTwoNumbersSummingToTarget.java#L62)]**
+    * Find Intersection: **[[Unsorted chars](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/Intersection.java)] [[Sorted numbers](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionInPlace.java)] [[Map](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIntersectionUsingMap.java)]**
     * [Remove Duplicates](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveDuplicates.java)
     * [Remove target number and return new length](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RemoveTargetAndReturnNewLength.java)
     * Reverse: **[[Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)] [[Reverse individual words](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseWords.java)]**
-    * Rotate array using:
-      * Buffer: [Clockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L13), [AntiClockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java#L36)
-      * [Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)
-      * [Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)
+    * Rotate array using: **[[Buffer](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java)] [[Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)] [[Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)]**
     * Matrix:
       * [2D Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
       * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
