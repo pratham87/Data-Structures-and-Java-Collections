@@ -25,6 +25,7 @@
       * [Set 0's in Row and Column](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ZeroRowColumn.java)
       * [Rotate Matrix Anticlockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateMatrix.java)
       * [Find Islands Using DFS](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIslandsUsingDFS.java)
+   * [BasicOperations](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/BasicOperations.md) 
 
 * ### HashMap and Hashtable:
     * [IterateHashMap](https://github.com/pratham87/DataStructures/blob/master/src/main/java/hashmapAndHashtable/IterateHashMap.java)
