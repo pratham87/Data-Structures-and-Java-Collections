@@ -14,52 +14,56 @@ public class Traversals {
 		root = null;
 	}
 
-	public void printPostorder(Node node) {
+	public void inorder(Node node) {
 		if (node == null) {
 			return;
 		}
-		printPostorder(node.left);
-		printPostorder(node.right);
+		inorder(node.left);
 		System.out.print(node.key + " ");
+		inorder(node.right);
 	}
 
-	public void printInorder(Node node) {
+	void preorder(Node node) {
 		if (node == null) {
 			return;
 		}
-		printInorder(node.left);
 		System.out.print(node.key + " ");
-		printInorder(node.right);
+		preorder(node.left);
+		preorder(node.right);
 	}
 
-	void printPreorder(Node node) {
+	public void postorder(Node node) {
 		if (node == null) {
 			return;
 		}
+		postorder(node.left);
+		postorder(node.right);
 		System.out.print(node.key + " ");
-		printPreorder(node.left);
-		printPreorder(node.right);
 	}
 
 	void printPostorder() {
-		printPostorder(root);
+		postorder(root);
 	}
 
 	void printInorder() {
-		printInorder(root);
+		inorder(root);
 	}
 
 	void printPreorder() {
-		printPreorder(root);
+		preorder(root);
 	}
 
 	public static void main(String[] args) {
 		Traversals tree = new Traversals();
 		tree.root = new Node(1);
 		tree.root.left = new Node(2);
+		tree.root.left.left = new Node(6);
+		tree.root.left.right = new Node(8);
 		tree.root.right = new Node(3);
-		tree.root.left.left = new Node(4);
-		tree.root.left.right = new Node(5);
+		tree.root.right.left = new Node(7);
+		tree.root.right.right = new Node(4);
+		tree.root.right.right.left = new Node(9);
+		tree.root.right.right.right = new Node(5);
 
 		System.out.println("Preorder traversal of binary tree is ");
 		tree.printPreorder();
@@ -69,5 +73,6 @@ public class Traversals {
 
 		System.out.println("\nPostorder traversal of binary tree is ");
 		tree.printPostorder();
+
 	}
 }
