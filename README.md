@@ -23,6 +23,7 @@
       * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
       * [Count negative numbers in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/CountNegativesInRowwiseColumnwiseSortedMatrix.java)
       * [Print Spiral Pattern](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/PrintSpiral.java)
+      * [Print Pattern](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/PrintPattern.java)
       * [Set 0's in Row and Column](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ZeroRowColumn.java)
       * [Rotate Matrix Anticlockwise](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateMatrix.java)
       * [Find Islands Using DFS](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/FindIslandsUsingDFS.java)
