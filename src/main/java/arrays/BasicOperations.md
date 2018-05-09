@@ -21,11 +21,11 @@
       int random = r.nextInt(i); // Range: 0 to i
       ```
 * ### Sort Array:
-	* min to max:
-	```java
-		Arrays.sort(arr); 
-	```
-	* max to min:
-	```java
-		Arrays.sort(arr, Collections.reverseOrder()); 
-	```
+    * min to max:
+      ```java
+       Arrays.sort(arr); 
+      ```
+    * max to min:
+      ```java
+       Arrays.sort(arr, Collections.reverseOrder()); 
+      ```
