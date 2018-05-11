@@ -20,7 +20,7 @@
       Random r = new Random();
       int random = r.nextInt(i); // Range: 0 to i
       ```
-* ### Sort Array:
+* ### Sort Array: O(nLogn)
     * min to max:
       ```java
        Arrays.sort(arr); 
