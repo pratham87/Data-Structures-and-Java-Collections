@@ -29,3 +29,7 @@
       ```java
        Arrays.sort(arr, Collections.reverseOrder()); 
       ```
+* ### Set to List:
+     ```java
+     List<?> list = new ArrayList<?>(set);
+     ```
