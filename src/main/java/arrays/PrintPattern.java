@@ -28,6 +28,8 @@ public class PrintPattern {
 
 				// Below if block decides how many chars to print in last row.
 				if (size % cols != 0 && i == result.length - 1) {
+					
+					//7 % 3 = 1, 8 % 3 = 2. end keeps track of how many times to write to last row.
 					if (end++ < size % cols) {
 						result[i][j] = list.get(count++);
 					}
