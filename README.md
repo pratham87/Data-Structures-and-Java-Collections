@@ -18,6 +18,7 @@
     * Reverse: **[[Recursion](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseUsingRecursion.java)] [[Reverse individual words](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/ReverseWords.java)]**
     * Rotate array using: **[[Buffer](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/RotateArrayUsingBuffer.java)] [[Bubble rotate](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingBubbleRotate.java)] [[Reversal algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/RotateArrayUsingReversalAlgo.java)]**
     * [Random Shuffle](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/RandomShuffle.java)
+    * [MoveZerosToEnd](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/MoveZerosToEnd.java)
     * Matrix:
       * [2D Array](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/TwoDimensionalArray.java)
       * [Search key in Row wise Column wise sorted matrix](https://github.com/pratham87/DataStructures/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
