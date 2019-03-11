@@ -8,7 +8,8 @@
   ```java
   map.put(num, map.containsKey(num) ? map.get(num) + 1 : 1);
   ```
-* Get first element in Map:
+* ### Get first element in Map: 
+  * Preferable for LinkedHashMap
   ```java
   Map.Entry<Character,Integer> entry = map.entrySet().iterator().next();
   entry.getKey()
