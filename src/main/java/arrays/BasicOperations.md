@@ -29,6 +29,10 @@
       ```java
        Arrays.sort(arr, Collections.reverseOrder()); 
       ```
+* ### Compare 2 Arrays:
+     ```java
+     Arrays.equals(arr1, arr2);
+     ```
 * ### Set to List:
      ```java
      List<?> list = new ArrayList<?>(set);
