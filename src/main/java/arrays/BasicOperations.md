@@ -10,6 +10,8 @@
        ```java
        Arrays.asList(1,2,3,4,5);
        ```
+       *  Arrays.asList: [Returns a fixed-size list backed by the specified array](https://stackoverflow.com/questions/5755477/java-list-add-unsupportedoperationexception)
+       * Thus it does not support any structural modification (i.e. removing or adding elements)
 * ### Random: getRandomIndex()
 	* Math.random(): Range [min, max] inclusive:
       ```java
