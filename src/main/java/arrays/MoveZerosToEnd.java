@@ -57,4 +57,19 @@ public class MoveZerosToEnd {
 /**
  * Output:
  * [1, 10, 2, 8, 3, 6, 4, 5, 7, 0, 0, 0, 0, 0]
+ Solution #2:
+ 
+         int i=0,j=0;
+         while(j<arr.length){
+            if(arr[j]==0) j++;
+            else{
+                int temp=arr[j];
+                arr[j]=arr[i];
+                arr[i]=temp;
+                i++;
+                j++;
+              }
+            }
+        return arr;
+        
  */
