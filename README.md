@@ -55,7 +55,7 @@
     * [Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/Node.java)
     * [Add Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/AddNode.java)
     * [Delete Node](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DeleteNode.java)
-    * [Detect Loop in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
+    * [Detect Loop and return starting node in Singly List - Floyd’s Algorithm](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
     * Reverse Linked List:
         * [Reverse Entire Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseLinkedList.java)
 	    * [Reverse List From Midpoint](https://github.com/pratham87/DataStructures/blob/master/src/main/java/linkedList/ReverseListFromMidpoint.java)
