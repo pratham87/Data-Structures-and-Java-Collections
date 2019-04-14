@@ -73,6 +73,7 @@
     * [Priority Queue Min](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueMin.java)
     * [Priority Queue Max - reversing the sorting order](https://github.com/pratham87/DataStructures/blob/master/src/main/java/queueProbs/PriorityQueueMax.java)
     * [Interview question (solved using Comparable Interface)](https://github.com/pratham87/DataStructures/tree/master/src/main/java/queuePriorityQueueExample/comparable)
+    * [QueueUsingStack](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/queueProbs/QueueUsingStack.java)
  
  * ### Stack:
     * [Stack Using Linked List](https://github.com/pratham87/DataStructures/blob/master/src/main/java/stackProbs/StackUsingLinkedList.java)
