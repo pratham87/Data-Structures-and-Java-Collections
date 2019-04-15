@@ -23,3 +23,7 @@
   ```java
   map.computeIfAbsent(sortedWord, s -> new ArrayList<>()).add(list.get(i));
   ```
+* ### map values Collection:
+  ```java
+  List<Value> list = new ArrayList<Value>(map.values());
+  ```
