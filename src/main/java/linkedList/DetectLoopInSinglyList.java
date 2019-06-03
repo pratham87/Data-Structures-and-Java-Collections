@@ -18,7 +18,7 @@ public class DetectLoopInSinglyList {
 		Node slow, fast;
 		slow = head;
 		fast = head;
-		while (slow.next != null && fast.next.next != null) {
+		while (fast != null && fast.next != null) {
 			slow = slow.next;
 			fast = fast.next.next;
 			if (slow.equals(fast)) {
